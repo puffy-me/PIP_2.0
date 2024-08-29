@@ -69,7 +69,7 @@ To install the PiP Chrome Extension from the source:
 
 ## Video Demonstration
 
-![Video Demonstration](piprecording.mp4)
+![Video Demonstration](https://youtu.be/RiQPCtlZtFU)
 *Video demonstration of the PiP Chrome Extension.*
 
 ## Contributing
