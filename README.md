@@ -69,8 +69,7 @@ To install the PiP Chrome Extension from the source:
 
 ## Video Demonstration
 
-![Video Demonstration](https://youtu.be/RiQPCtlZtFU)
-*Video demonstration of the PiP Chrome Extension.*
+Watch the video demonstration of the PiP Chrome Extension: [Video Demonstration](https://youtu.be/RiQPCtlZtFU)
 
 ## Contributing
 
@@ -135,7 +134,6 @@ A: No, this extension is only supported on desktop versions of Chrome.
   ├── popup.css
   ├── icon.png
   └── README.md
-
-## Contact
+## Contacts
 
 For any questions or feedback, please contact us at puffy.meprojects@gmail.com.
